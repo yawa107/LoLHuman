@@ -1,3 +1,1 @@
-# LoL Human
-
-**Thanks to [indrijunanda](https://github.com/indrijunanda/RuangAdmin)**
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yawa107/api-mirip-lolhuman/)
